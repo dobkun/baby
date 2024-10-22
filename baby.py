@@ -50,7 +50,7 @@ def update_application(repo_owner, repo_name, current_version):
 
 repo_owner = 'dobkun'
 repo_name = 'baby'
-current_version = 'v1.3.2'
+current_version = 'v1.3.3'
 
 update_application(repo_owner, repo_name, current_version)
 
@@ -664,7 +664,6 @@ async def on_ready():
     while True:
         os.system('cls' if os.name == 'nt' else 'clear')
         choice = input((Colorate.Color(Colors.blue, """
-https://discord.gg/GFx3KxwBYg our very own server
      ____    __    ____  _  _  ____  _____  ____     ___  _____  _  _  ____  ____  _____  __    ___ 
     (  _ \  /__\  (  _ \( \/ )(  _ \(  _  )(_  _)   / __)(  _  )( \( )(_  _)(  _ \(  _  )(  )  / __)
      ) _ < /(__)\  ) _ < \  /  ) _ < )(_)(   )(    ( (__  )(_)(  )  (   )(   )   / )(_)(  )(__ \__ \
