@@ -1,1 +1,1 @@
-![unnamed](https://github.com/user-attachments/assets/5055d0f5-4443-4f74-a504-ec3ee5b261e3)
+![unnamed](https://wiki.soyjak.st/images/f/fd/1708771697796.gif?download)
